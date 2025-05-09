@@ -9,6 +9,25 @@ A particularly ambitious concept is the Optimation Theorem, which spans multiple
 Other functions like Modbias, Passaffect, and Truthvar explore behavioral or probabilistic domains of logic, resembling concepts in fuzzy logic or adaptive algorithms. For example, Modbias appears to focus on quantifying modular biases in data or algorithms, potentially for use in AI ethics or algorithmic fairness. Passaffect introduces a form of logical flow control or variable interaction across multiple function layers—suggestive of a programming or modeling paradigm that mimics decision-making in dynamic systems. Truthvar, with its attention to truth variation and contextual logic, could be leveraged in decision systems or AI-driven verification processes. Collectively, Sourceduty’s functions provide a powerful foundation for researchers and developers seeking to push the boundaries of applied mathematics in computational and theoretical contexts.
 
 #
+```
+SOURCEDUTY MATH FRAMEWORKS
+│
+├── Comtag              → Topological logic structures and tagging systems
+├── Contripot           → Signal energy transformations and conversion modeling
+├── Factorchain         → Prime factor networks and algebraic layering
+├── ImpactQ             → Quantitative impact functions for logical variability
+├── Optimation Theorem  → Optimization in Boolean, quantum, and computational logic
+├── Linear Matrix       → Matrix-driven robotic control and cluster computation
+├── Modbias             → Modular bias detection and fairness tuning in logic
+├── Navisol             → Signal-based navigation and pathfinding frameworks
+├── Passaffect          → Flow-controlled logic via affective passing structures
+├── Quadexpo            → Exponential-quadratic growth models and forecasting
+├── Reactivar           → System reactivation and state-restoration algorithms
+├── Signal Optimate     → Optimized signal control for networks and traffic systems
+├── Signal Wave         → Waveform-based logic patterns and functional resonance
+└── Truthvar            → Truth-variable frameworks for adaptive decision systems
+```
+#
 
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
 <br>
