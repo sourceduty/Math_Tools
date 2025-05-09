@@ -25,7 +25,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Reactivar           → System reactivation and state-restoration algorithms
 ├── Signal Optimate     → Optimized signal control for networks and traffic systems
 ├── Signal Wave         → Waveform-based logic patterns and functional resonance
-└── Truthvar            → Truth-variable frameworks for adaptive decision systems
+├── Truthvar            → Truth-variable frameworks for adaptive decision systems
+└── Joint Driver        → Adapt and compute values on demand as needed while dynamically adjusting weights based on problem-specific criteria.
 ```
 #
 
