@@ -1,4 +1,4 @@
-![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+![Polar Train](https://github.com/user-attachments/assets/7d69987d-500e-48c4-be44-12229fa8b0ec)
 
 #
 
@@ -28,6 +28,10 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Truthvar            → Truth-variable frameworks for adaptive decision systems
 └── Joint Driver        → Adapt and compute values on demand with dynamic weighting
 ```
+#
+
+![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+
 #
 
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
