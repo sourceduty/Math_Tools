@@ -9,6 +9,9 @@ A particularly ambitious concept is the Optimation Theorem, which spans multiple
 Other functions like Modbias, Passaffect, and Truthvar explore behavioral or probabilistic domains of logic, resembling concepts in fuzzy logic or adaptive algorithms. For example, Modbias appears to focus on quantifying modular biases in data or algorithms, potentially for use in AI ethics or algorithmic fairness. Passaffect introduces a form of logical flow control or variable interaction across multiple function layers—suggestive of a programming or modeling paradigm that mimics decision-making in dynamic systems. Truthvar, with its attention to truth variation and contextual logic, could be leveraged in decision systems or AI-driven verification processes. Collectively, Sourceduty’s functions provide a powerful foundation for researchers and developers seeking to push the boundaries of applied mathematics in computational and theoretical contexts.
 
 #
+
+![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+
 ```
 SOURCEDUTY MATH FRAMEWORKS
 │
@@ -30,7 +33,9 @@ SOURCEDUTY MATH FRAMEWORKS
 ```
 #
 
-![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+![FITB Math](https://github.com/user-attachments/assets/e8f8ce77-cdd2-4a71-b49d-ecdfb0636d6a)
+
+[Math FITB](https://chatgpt.com/g/g-682a510daa5c8191bfa6959f6d050ed6-math-fitb) helps users create high-quality fill-in-the-blank (FITB) math problems that encourage active learning and deeper conceptual understanding. It transforms a wide range of mathematical concepts—ranging from basic arithmetic and algebra to calculus, probability, and data analysis—into structured problems where key components of formulas, equations, or procedures are intentionally left blank. These strategically placed blanks target common areas where students need practice, such as identifying missing variables, selecting correct operations, or recalling specific values or rules, thus prompting learners to engage more critically with the material. Each FITB item is carefully constructed to ensure clarity, coherence, and a single, unambiguous correct answer, reinforcing procedural fluency and conceptual accuracy. Math FITB can generate a variety of question formats including standalone equations, real-world word problems, and multi-step algorithms, always prioritizing instructional value and pedagogical clarity to support both practice and assessment in mathematical learning.
 
 #
 
