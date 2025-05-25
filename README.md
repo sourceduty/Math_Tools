@@ -77,6 +77,4 @@ Across industries and scientific disciplines, the dichotomy between specialists 
 
 #
 
-[Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
-<br>
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
