@@ -45,6 +45,10 @@ SOURCEDUTY MATH FRAMEWORKS
 
 #
 
+![NEWS](https://github.com/user-attachments/assets/f83be13d-52d9-42be-9a42-c9413de065e2)
+
+#
+
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
 <br>
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
