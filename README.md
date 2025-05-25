@@ -18,6 +18,8 @@ Sourceduty, the creator of "Polar Duality Theory," expanded on traditional notio
 
 ![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
 
+[Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math) was created to assist users in exploring, applying, and solving problems using a set of advanced computational and mathematical frameworks developed by Sourceduty. Its core functionality revolves around providing step-by-step explanations, detailed formula derivations, and strategic guidance on concepts tied to frameworks such as Joint Driver, Universal Organization, Factorchain, Optimation Theorem, and others like Comtag or Quadexpo. These frameworks span across diverse domains—ranging from signal control and prime factor analysis to modular bias detection and exponential forecasting—enabling users to analyze systems, model data, and make logical decisions with precision. Sourceduty Math leverages LaTeX for clear mathematical notation, promotes conceptual understanding through multiple problem-solving paths, and encourages deeper insights by breaking complex issues into digestible components. When appropriate, it uses computational tools for accurate verification and offers methods to visualize mathematical relationships. Whether tackling real-world applications, academic problems, or innovative logic systems, this GPT acts as a versatile guide and computational partner.
+
 ```
 SOURCEDUTY MATH FRAMEWORKS
 │
