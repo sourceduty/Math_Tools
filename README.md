@@ -10,9 +10,7 @@ Other functions like Modbias, Passaffect, and Truthvar explore behavioral or pro
 
 #
 
-![Polar Duality Theory](https://github.com/user-attachments/assets/ec5a16c7-7d3d-4697-909e-4efe0969d5c6)
-
-Sourceduty, the creator of "Polar Duality Theory," expanded on traditional notions of duality by framing opposites not merely as contrasting forces but as inherently connected components of a unified whole. By emphasizing the complementary and interdependent nature of polar opposites, Sourceduty's theory reveals how their interaction drives dynamic processes across different fields. Sourceduty's work highlights how the flux between dualities, rather than being static or rigid, generates new emergent properties and shapes complex systems, offering a framework to explore the interconnectedness of diverse phenomena.
+![Duality](https://github.com/user-attachments/assets/6756002f-d7c7-41ed-ac11-7cd943858e8c)
 
 #
 
