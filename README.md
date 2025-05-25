@@ -21,22 +21,22 @@ Sourceduty, the creator of "Polar Duality Theory," expanded on traditional notio
 ```
 SOURCEDUTY MATH FRAMEWORKS
 │
-├── Comtag                  → Topological logic structures and tagging systems
-├── Contripot               → Signal energy transformations and conversion modeling
-├── Factorchain             → Prime factor networks and algebraic layering
-├── ImpactQ                 → Quantitative impact functions for logical variability
-├── Optimation Theorem      → Optimization in Boolean, quantum, and computational logic
-├── Linear Matrix           → Matrix-driven robotic control and cluster computation
-├── Modbias                 → Modular bias detection and fairness tuning in logic
-├── Navisol                 → Signal-based navigation and pathfinding frameworks
-├── Passaffect              → Flow-controlled logic via affective passing structures
-├── Quadexpo                → Exponential-quadratic growth models and forecasting
-├── Reactivar               → System reactivation and state-restoration algorithms
-├── Signal Optimate         → Optimized signal control for networks and traffic systems
-├── Signal Wave             → Waveform-based logic patterns and functional resonance
-├── Truthvar                → Truth-variable frameworks for adaptive decision systems
-├── Joint Driver            → Adapt and compute values on demand with dynamic weighting
-└── Universal Organization  → Single-task and multi-task systems
+├── Comtag                      → Topological logic structures and tagging systems
+├── Contripot                   → Signal energy transformations and conversion modeling
+├── Factorchain                 → Prime factor networks and algebraic layering
+├── ImpactQ                     → Quantitative impact functions for logical variability
+├── Optimation Theorem          → Optimization in Boolean, quantum, and computational logic
+├── Linear Matrix               → Matrix-driven robotic control and cluster computation
+├── Modbias                     → Modular bias detection and fairness tuning in logic
+├── Navisol                     → Signal-based navigation and pathfinding frameworks
+├── Passaffect                  → Flow-controlled logic via affective passing structures
+├── Quadexpo                    → Exponential-quadratic growth models and forecasting
+├── Reactivar                   → System reactivation and state-restoration algorithms
+├── Signal Optimate             → Optimized signal control for networks and traffic systems
+├── Signal Wave                 → Waveform-based logic patterns and functional resonance
+├── Truthvar                    → Truth-variable frameworks for adaptive decision systems
+├── Joint Driver                → Adapt and compute values on demand with dynamic weighting
+└── Universal Organization      → Single-task and multi-task systems
 ```
 #
 
