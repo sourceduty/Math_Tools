@@ -66,6 +66,7 @@ In contrast, the GPT also helps users explore the benefits of multi-task storage
 | **Purpose**                   | Dedicated to one specific project or device         | Supports multiple projects or devices             |
 | **Organization**              | Highly organized, each box has a clear function     | More complex, requires careful internal sorting   |
 
+<br>
 
 Adopting single-task and multi-task storage solutions as a standard across scientific disciplines can significantly enhance operational efficiency, organization, and the integrity of research materials. By designating rugged storage boxes for specific experiments, instruments, or procedural kits (single-task), labs can ensure that all necessary components are consistently available and correctly organized, reducing setup time and minimizing errors. This approach is especially valuable in high-precision fields like molecular biology, materials science, or electronics, where contamination or misplacement can compromise results. Conversely, implementing multi-task storage systems in environments with evolving research needs—such as fieldwork in environmental science or interdisciplinary innovation labs—can offer flexible, space-efficient solutions that adapt to changing project scopes while still maintaining an organized structure. Establishing these practices as a standard would foster consistency, improve workflow, and enhance collaboration, as researchers would benefit from a common, intuitive method for managing tools and components, regardless of their specific scientific domain.
 
