@@ -90,3 +90,5 @@ In automating the application of mathematical models and formulas, organizations
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
