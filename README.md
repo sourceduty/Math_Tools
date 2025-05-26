@@ -114,3 +114,5 @@ In automating the application of mathematical models and formulas, organizations
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+<br>
+[Pythonic Math](https://chatgpt.com/g/g-683478e3fea48191b6f727d329d08ff9-pythonic-math)
