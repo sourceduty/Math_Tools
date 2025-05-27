@@ -63,6 +63,12 @@ ChatGPT parses mathematical functions by leveraging an advanced understanding of
 
 #
 
+![Math Rulebook](https://github.com/user-attachments/assets/95e25ad2-4546-45f4-b925-8fe344078420)
+
+[Math Rulebook](https://chatgpt.com/g/g-68357e85629c8191a621dde2b5301300-math-rulebook) was made to convert informal, conceptual, or ambiguous descriptions of mathematical functions into precise, logically sound, and computationally robust formulations. It assists users in crafting clear and mathematically valid rules for function development by identifying variables, specifying domains, enforcing consistency, and expressing logic through standard mathematical notation or algorithmic structure. Whether the user seeks a pure mathematical expression, a piecewise rule, or an implementation-ready pseudocode or real code, Math Rulebook ensures that the resulting function is coherent, handles edge cases appropriately, and adheres to formal standards such as continuity, domain restrictions, and definability. It operates as a collaborative tool, posing clarifying multiple-choice questions when inputs are unclear and providing suggestions to improve logical structure and performance. Ultimately, Math Rulebook empowers users to build, refine, and verify functions with clarity, correctness, and adaptability across theoretical and practical contexts.
+
+#
+
 ![FITB Math](https://github.com/user-attachments/assets/e8f8ce77-cdd2-4a71-b49d-ecdfb0636d6a)
 
 [Math FITB](https://chatgpt.com/g/g-682a510daa5c8191bfa6959f6d050ed6-math-fitb) helps users create high-quality fill-in-the-blank (FITB) math problems that encourage active learning and deeper conceptual understanding. It transforms a wide range of mathematical concepts—ranging from basic arithmetic and algebra to calculus, probability, and data analysis—into structured problems where key components of formulas, equations, or procedures are intentionally left blank.
