@@ -4,8 +4,6 @@
 
 Sourceduty has developed frameworks such as Comtag, Contripot, Factorchain, ImpactQ, Linear Matrix, Modbias, Navisol, Passaffect, Quadexpo, Reactivar, Signal Optimate, Signal Wave, Truthvar, and the extensive Optimation Theorem. Each framework includes a structured text file outlining its core theory, use cases, and potential computational applications. These functions are presented not only as abstract mathematical ideas but also as programmable tools, often accompanied by Python examples, topological diagrams, and explanatory images. Their collective focus lies in creating computational models that optimize logic, algebraic processes, signal analysis, and even quantum mechanics. Many of them aim to redefine or extend conventional mathematical domains—Factorchain, for example, offers a unique approach to prime decomposition and algebraic layering.
 
-A particularly ambitious concept is the Optimation Theorem, which spans multiple subtopics including Boolean logic enhancement, quantum optimation, and CPU-level computational efficiency. This framework goes beyond theoretical abstraction by proposing practical implementations such as VQE (Variational Quantum Eigensolver) models and terminal-based tools for quantum variable addition. The function is described as a method of systematically improving system performance through a set of algebraic and logical transformations. The documents also hint at real-world implications, such as saving billions in operational costs for major corporations, demonstrating a strong focus on computational efficiency, automation, and machine learning readiness. Sourceduty’s work in this area represents an effort to create universal frameworks that can integrate with existing computational architectures.
-
 #
 
 ![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
@@ -115,6 +113,24 @@ The automation of math is about harnessing the power of computational mathematic
 Abstraction is the process of simplifying complex systems by focusing only on the most relevant details for a given purpose, while deliberately ignoring or "abstracting away" less critical aspects. When we abstract to a higher level, we move toward more general concepts that hide lower-level details—such as thinking of a car as a mode of transportation without concerning ourselves with the mechanics of its engine. This allows for broader reasoning and more efficient communication or manipulation of ideas. Conversely, when we abstract to a lower level, we unpack a concept into its more specific components, such as analyzing a car in terms of pistons, fuel injection, and timing systems—details that may be invisible at the higher level. The choice of abstraction level depends on context and goals: a software architect may abstract a program as interacting modules, while a programmer implements the low-level logic behind each module. In both directions, abstraction helps manage complexity by allowing us to reason within the scope that is most useful, without being overwhelmed by all layers at once.
 
 When abstracting away details, especially in the context of simplifying a highly theoretical science, there is often a trade-off between accessibility and fidelity—some quality is inevitably lost even as clarity is gained. By focusing only on select aspects of a complex system, we risk omitting subtleties, exceptions, or interdependencies that are critical at lower levels of detail. For example, when a quantum mechanical phenomenon is explained using classical analogies to make it comprehensible to a broader audience, the explanation may become more intuitive but simultaneously less accurate or even misleading in certain respects. This loss of nuance can lead to misconceptions if the abstraction is mistaken for the full reality. However, abstraction can also enhance quality in a different dimension: it enables high-level reasoning, broad generalization, and the construction of conceptual frameworks that would be impossible if every detail had to be considered at once. Thus, while some depth and precision may be sacrificed, abstraction can also illuminate patterns and principles that are otherwise obscured by complexity. The key is recognizing what has been left out and knowing when it's necessary to "zoom back in" to recover the lost fidelity.
+
+#
+
+![Encoded Visual](https://github.com/user-attachments/assets/bbd376b5-a325-4d82-b233-5b8372f9c38c)
+
+[Encoded Visual](https://chatgpt.com/g/g-6836d2ea5108819181b269aaff7bb75b-encoded-visual) is a custom GPT developed for Abstract Encoded Visuals (AEV), focusing on the interpretation, communication, and cognitive processing of abstract data through visual representations. Its primary role is to help users explore how non-literal, often symbolic or graphical forms—such as charts, diagrams, symbols, and icons—convey complex concepts, patterns, and relationships. Drawing from interdisciplinary principles across psychology, computer science, design, and neuroscience, it assists in analyzing and enhancing the ways in which abstract visualizations are constructed and understood. Through a guided, step-by-step multiple choice dialogue, it helps users conceptualize, critique, and improve the clarity, effectiveness, and impact of visual information, with the ultimate goal of enhancing comprehension and decision-making across various contexts, from scientific research to everyday data interpretation.
+
+<br>
+
+```
+| Visual Type | Subtype         | Example Description                                                              | Symbol/Illustration |
+|-------------|------------------|----------------------------------------------------------------------------------|----------------------|
+| Chart       | Line Chart       | Stock market trends over a month (x: date, y: stock value)                      | 📈                   |
+| Diagram     | Flowchart        | Internet connectivity troubleshooting decision flow                             | 🔄                   |
+| Map         | Heatmap          | City grid showing foot traffic intensity for urban planning                     | 🗺️                   |
+| Icon        | Warning Icon     | Triangle with exclamation mark representing a hazard                            | ⚠️                   |
+| Symbol      | Mathematical     | The symbol ∞ representing the abstract concept of infinity                      | ∞                   |
+```
 
 #
 
