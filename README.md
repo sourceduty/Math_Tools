@@ -2,6 +2,21 @@
 
 #
 
+| Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
+|----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
+| Add                  | Add       | Ajouter     | Sumar       | جمع (jamaʿa)          | 加 (jiā)                 |
+| Subtract             | Subtract  | Soustraire  | Restar      | طرح (ṭaraḥa)          | 减 (jiǎn)                |
+| Multiply             | Multiply  | Multiplier  | Multiplicar | ضرب (ḍaraba)          | 乘 (chéng)               |
+| Divide               | Divide    | Diviser     | Dividir     | قسمة (qisma)          | 除 (chú)                 |
+| Equal                | Equals    | Égal        | Igual       | يساوي (yusāwī)        | 等于 (děngyú)            |
+| Greater Than         | Greater   | Plus grand  | Mayor que   | أكبر من (akbar min)   | 大于 (dàyú)              |
+| Less Than            | Less      | Moins que   | Menor que   | أصغر من (aṣghar min)  | 小于 (xiǎoyú)            |
+| Number               | Number    | Nombre      | Número      | رقم (raqm)            | 数字 (shùzì)             |
+| Fraction             | Fraction  | Fraction    | Fracción    | كسر (kasr)            | 分数 (fēnshù)            |
+| Equation             | Equation  | Équation    | Ecuación    | معادلة (muʿādala)     | 方程 (fāngchéng)         |
+
+#
+
 Sourceduty has developed frameworks such as Comtag, Contripot, Factorchain, ImpactQ, Linear Matrix, Modbias, Navisol, Passaffect, Quadexpo, Reactivar, Signal Optimate, Signal Wave, Truthvar, and the extensive Optimation Theorem. Each framework includes a structured text file outlining its core theory, use cases, and potential computational applications. These functions are presented not only as abstract mathematical ideas but also as programmable tools, often accompanied by Python examples, topological diagrams, and explanatory images. Their collective focus lies in creating computational models that optimize logic, algebraic processes, signal analysis, and even quantum mechanics. Many of them aim to redefine or extend conventional mathematical domains—Factorchain, for example, offers a unique approach to prime decomposition and algebraic layering.
 
 #
