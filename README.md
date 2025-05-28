@@ -7,13 +7,6 @@
 | Add                  | Add       | Ajouter     | Sumar       | جمع (jamaʿa)          | 加 (jiā)                 |
 | Subtract             | Subtract  | Soustraire  | Restar      | طرح (ṭaraḥa)          | 减 (jiǎn)                |
 | Multiply             | Multiply  | Multiplier  | Multiplicar | ضرب (ḍaraba)          | 乘 (chéng)               |
-| Divide               | Divide    | Diviser     | Dividir     | قسمة (qisma)          | 除 (chú)                 |
-| Equal                | Equals    | Égal        | Igual       | يساوي (yusāwī)        | 等于 (děngyú)            |
-| Greater Than         | Greater   | Plus grand  | Mayor que   | أكبر من (akbar min)   | 大于 (dàyú)              |
-| Less Than            | Less      | Moins que   | Menor que   | أصغر من (aṣghar min)  | 小于 (xiǎoyú)            |
-| Number               | Number    | Nombre      | Número      | رقم (raqm)            | 数字 (shùzì)             |
-| Fraction             | Fraction  | Fraction    | Fracción    | كسر (kasr)            | 分数 (fēnshù)            |
-| Equation             | Equation  | Équation    | Ecuación    | معادلة (muʿādala)     | 方程 (fāngchéng)         |
 
 #
 
