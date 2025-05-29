@@ -127,13 +127,13 @@ When abstracting away details, especially in the context of simplifying a highly
 <br>
 
 ```
-| Visual Type | Subtype         | Example Description                                                              | Symbol/Illustration |
-|-------------|------------------|----------------------------------------------------------------------------------|----------------------|
+| Visual Type | Subtype          | Example Description                                                              | Symbol/Illustration |
+|-------------|------------------|----------------------------------------------------------------------------------|---------------------|
 | Chart       | Line Chart       | Stock market trends over a month (x: date, y: stock value)                      | 📈                   |
 | Diagram     | Flowchart        | Internet connectivity troubleshooting decision flow                             | 🔄                   |
 | Map         | Heatmap          | City grid showing foot traffic intensity for urban planning                     | 🗺️                   |
 | Icon        | Warning Icon     | Triangle with exclamation mark representing a hazard                            | ⚠️                   |
-| Symbol      | Mathematical     | The symbol ∞ representing the abstract concept of infinity                      | ∞                   |
+| Symbol      | Mathematical     | The symbol ∞ representing the abstract concept of infinity                      | ∞                    |
 ```
 
 #
