@@ -1,4 +1,5 @@
 # Human Population Throughput Template
+# Births ➝ Living population ➝ Deaths
 
 import pandas as pd
 import matplotlib.pyplot as plt
