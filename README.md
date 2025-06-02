@@ -10,6 +10,8 @@
 
 #
 
+![Maths](https://github.com/user-attachments/assets/43461d54-3ce1-4a43-8146-2f5976e890c5)
+
 Sourceduty has developed frameworks such as Comtag, Contripot, Factorchain, ImpactQ, Linear Matrix, Modbias, Navisol, Passaffect, Quadexpo, Reactivar, Signal Optimate, Signal Wave, Truthvar, and the extensive Optimation Theorem. Each framework includes a structured text file outlining its core theory, use cases, and potential computational applications. These functions are presented not only as abstract mathematical ideas but also as programmable tools, often accompanied by Python examples, topological diagrams, and explanatory images. Their collective focus lies in creating computational models that optimize logic, algebraic processes, signal analysis, and even quantum mechanics. Many of them aim to redefine or extend conventional mathematical domains—Factorchain, for example, offers a unique approach to prime decomposition and algebraic layering.
 
 #
