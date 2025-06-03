@@ -42,7 +42,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Joint Driver                → Adapt and compute values on demand with dynamic weighting
 ├── Universal Organization      → Single-task and multi-task systems
 ├── FlopV                       → Flip-flop digital logic
-└── GradLog                     → Gradual dynamic preset logic operation
+├── GradLog                     → Gradual dynamic preset logic operation
+└── DynaSim                     → Dynamic pre-simulation for system outcome approximation
 ```
 
 <br>
