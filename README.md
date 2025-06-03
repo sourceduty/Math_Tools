@@ -41,7 +41,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Truthvar                    → Truth-variable frameworks for adaptive decision systems
 ├── Joint Driver                → Adapt and compute values on demand with dynamic weighting
 ├── Universal Organization      → Single-task and multi-task systems
-└── FlopV                       → Flip-flop digital logic
+├── FlopV                       → Flip-flop digital logic
+└── GradLog                     → Gradual dynamic preset logic operation
 ```
 
 <br>
