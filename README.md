@@ -43,7 +43,7 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Universal Organization      → Single-task and multi-task systems
 ├── FlopV                       → Flip-flop digital logic
 ├── GradLog                     → Gradual dynamic preset logic operation
-└── k-Variant Function          → Algebraic preapplied variant function for data pre-processing
+└── k-Variant                   → Algebraic preapplied variant for data pre-processing
 ```
 
 <br>
