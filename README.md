@@ -43,8 +43,7 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Universal Organization      → Single-task and multi-task systems
 ├── FlopV                       → Flip-flop digital logic
 ├── GradLog                     → Gradual dynamic preset logic operation
-├── DynaSim                     → Dynamic pre-simulation for system outcome approximation
-└── CharGen                     → Time-varying rate of electric system charge or discharge accumulation
+└── k-Variant Function          → Algebraic preapplied variant function for data pre-processing
 ```
 
 <br>
