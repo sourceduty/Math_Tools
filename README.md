@@ -24,9 +24,7 @@ Sourceduty has introduced a powerful suite of mathematical frameworks—includin
 | Birch and Swinnerton-Dyer Conjecture         | Factorchain, Passaffect, TolSum                                | Models rational points on elliptic curves, group structure layers, and L-function convergence with tolerances. |
 | Yang–Mills Existence and Mass Gap            | Signal Optimate, Q-Neuron, Comtag                              | Models field interactions, simulates quantum entanglement structures, and tags topological field variations. |
 
-#
-
-![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+<br>
 
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math) is a custom GPT created to assist users in parsing, exploring, and applying a suite of advanced computational and mathematical frameworks developed by Sourceduty. Parsing, in this context, refers to the systematic identification and alignment of user requirements with the capabilities of specific Sourceduty functions—translating complex problems into structured, solvable components using the most appropriate frameworks. At its core, this GPT provides step-by-step explanations, detailed formula derivations, and strategic guidance across systems such as Joint Driver, Universal Organization, Factorchain, Optimation Theorem, and others including Comtag and Quadexpo. These frameworks span diverse computational domains—from signal flow regulation and prime factor lattice modeling to modular bias parsing and exponential-quadratic system forecasting—each one parsed to match the logic demands of a given task. Sourceduty Math uses LaTeX for precision in mathematical notation, promotes conceptual clarity through multiple solution pathways, and fosters deep understanding by breaking down intricate problems into accessible layers. It also integrates computational tools for result verification and offers methods for visualizing mathematical relationships when necessary. Whether applied to real-world systems, academic inquiries, or emerging logic architectures, this GPT functions as a versatile parser and guide—mapping problems to frameworks, translating user intent into structured models, and supporting intelligent, modular solutions across a wide range of challenges.
 
@@ -78,7 +76,7 @@ ChatGPT parses mathematical functions by leveraging an advanced understanding of
 
 #
 
-![NEWS](https://github.com/user-attachments/assets/f83be13d-52d9-42be-9a42-c9413de065e2)
+![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation) was made to rigorously assess the quality, validity, and impact of theoretical frameworks across all scientific domains by applying a multi-criteria approach that draws from philosophy of science, cognitive psychology, social epistemology, data analysis, and machine learning. Its core function is to evaluate theories using standards such as explanatory power, predictive accuracy, empirical support, logical consistency, falsifiability, parsimony, scope, generality, coherence with established knowledge, and their capacity to generate novel hypotheses.
 
