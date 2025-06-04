@@ -1,15 +1,5 @@
 ![Masked](https://github.com/user-attachments/assets/f983defe-8fde-4500-a80d-4118a604377b)
 
-<br>
-
-| Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
-|----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
-| Add                  | Add       | Ajouter     | Sumar       | جمع (jamaʿa)          | 加 (jiā)                 |
-| Subtract             | Subtract  | Soustraire  | Restar      | طرح (ṭaraḥa)          | 减 (jiǎn)                |
-| Multiply             | Multiply  | Multiplier  | Multiplicar | ضرب (ḍaraba)          | 乘 (chéng)               |
-
-<br>
-
 ⭐ [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math) is a custom GPT created to assist users in parsing, exploring, and applying a suite of advanced computational and mathematical frameworks developed by Sourceduty. Parsing, in this context, refers to the systematic identification and alignment of user requirements with the capabilities of specific Sourceduty functions—translating complex problems into structured, solvable components using the most appropriate frameworks.
 
 <br>
@@ -150,7 +140,13 @@ When abstracting away details, especially in the context of simplifying a highly
 ```
 
 #
-![Balance](https://github.com/user-attachments/assets/899215ea-3eff-4355-af79-98ae6c810aca)
+
+| Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
+|----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
+| Add                  | Add       | Ajouter     | Sumar       | جمع (jamaʿa)          | 加 (jiā)                 |
+| Subtract             | Subtract  | Soustraire  | Restar      | طرح (ṭaraḥa)          | 减 (jiǎn)                |
+| Multiply             | Multiply  | Multiplier  | Multiplicar | ضرب (ḍaraba)          | 乘 (chéng)               |
+
 #
 
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
