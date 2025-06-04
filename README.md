@@ -44,7 +44,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── FlopV                       → Flip-flop digital logic
 ├── GradLog                     → Gradual dynamic preset logic operation
 ├── k-Variant                   → Algebraic preapplied variant for data pre-processing
-└── TolSum                      → Tolerance-based additive optimization
+├── TolSum                      → Tolerance-based additive optimization
+└── Q-Neuron                    → Quantum-superposition neuronal computation
 ```
 
 <br>
