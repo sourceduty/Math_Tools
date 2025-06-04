@@ -56,7 +56,7 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── OpLog                       → Built-in boolean comparison logic
 ├── DistRed                     → Dynamic stochastic reduction function
 ├── PreJunc                     → Pre-processed algebraic transformation
-└──  BIE                        → Cooperation and competition in a dynamic environment
+└── BIE                         → Cooperation and competition in a dynamic environment
 ```
 
 <br>
