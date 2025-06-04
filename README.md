@@ -149,3 +149,5 @@ When abstracting away details, especially in the context of simplifying a highly
 [Pythonic Math](https://chatgpt.com/g/g-683478e3fea48191b6f727d329d08ff9-pythonic-math)
 <br>
 [Improvement Value](https://chatgpt.com/g/g-sk2jHB2eb-improvement-value)
+<br>
+[Math Theorem](https://chatgpt.com/g/g-67bc732d44bc8191b75fc4cfd6d05c0b-math-theorem)
