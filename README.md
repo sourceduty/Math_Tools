@@ -52,7 +52,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── k-Variant                   → Algebraic preapplied variant for data pre-processing
 ├── TolSum                      → Tolerance-based additive optimization
 ├── Q-Neuron                    → Quantum-superposition neuronal computation
-└── OpLog                       → Built-in boolean comparison logic
+├── OpLog                       → Built-in boolean comparison logic
+└── DistRed                     → Dynamic stochastic reduction function
 ```
 
 <br>
