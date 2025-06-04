@@ -1,4 +1,4 @@
-![Balance](https://github.com/user-attachments/assets/899215ea-3eff-4355-af79-98ae6c810aca)
+![Masked](https://github.com/user-attachments/assets/f983defe-8fde-4500-a80d-4118a604377b)
 
 <br>
 
@@ -144,6 +144,8 @@ When abstracting away details, especially in the context of simplifying a highly
 
 ```
 
+#
+![Balance](https://github.com/user-attachments/assets/899215ea-3eff-4355-af79-98ae6c810aca)
 #
 
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
