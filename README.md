@@ -14,13 +14,13 @@
 
 <br>
 
-| Unsolved Problem                             | Relevant Sourceduty Functions                                  | Function Purpose / Fit                                                                                      |
-|---------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| P vs NP Problem                              | Optimation Theorem, Truthvar, GradLog                          | Models logical boundaries, adaptive logic, and complexity class transitions.                                |
-| Riemann Hypothesis                           | Factorchain, ImpactQ, Linear Matrix                            | Decomposes prime structures, models spectral distributions, and analyzes complex zeros in algebraic layers. |
-| Navier–Stokes Existence and Smoothness       | Contripot, Signal Wave, DynaSim                                | Simulates fluid energy behavior, wave propagation, and stability under turbulence.                          |
-| Birch and Swinnerton-Dyer Conjecture         | Factorchain, Passaffect, TolSum                                | Models rational points on elliptic curves, group structure layers, and L-function convergence with tolerances. |
-| Yang–Mills Existence and Mass Gap            | Signal Optimate, Q-Neuron, Comtag                              | Models field interactions, simulates quantum entanglement structures, and tags topological field variations. |
+| Unsolved Problem                         | Relevant Sourceduty Functions                                              | Function Purpose / Fit                                                                                                 |
+|-----------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization       | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. |
+| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver                 | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. |
+| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar           | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. |
+| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate                  | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. |
+| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias                      | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. |
 
 <br>
 
