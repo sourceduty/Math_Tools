@@ -4,16 +4,6 @@
 
 <br>
 
-| Unsolved Problem                         | Relevant Sourceduty Functions                                              | Function Purpose / Fit                                                                                                 |
-|-----------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization       | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. |
-| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver                 | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. |
-| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar           | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. |
-| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate                  | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. |
-| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias                      | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. |
-
-<br>
-
 ```
 SOURCEDUTY MATH FRAMEWORKS
 │
@@ -44,6 +34,16 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── PreJunc                     → Pre-processed algebraic transformation
 └── BIE                         → Cooperation and competition in a dynamic environment
 ```
+
+<br>
+
+| Unsolved Problem                         | Relevant Sourceduty Functions                                              | Function Purpose / Fit                                                                                                 |
+|-----------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization       | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. |
+| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver                 | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. |
+| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar           | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. |
+| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate                  | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. |
+| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias                      | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. |
 
 <br>
 
