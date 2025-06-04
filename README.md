@@ -51,7 +51,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── GradLog                     → Gradual dynamic preset logic operation
 ├── k-Variant                   → Algebraic preapplied variant for data pre-processing
 ├── TolSum                      → Tolerance-based additive optimization
-└── Q-Neuron                    → Quantum-superposition neuronal computation
+├── Q-Neuron                    → Quantum-superposition neuronal computation
+└── OpLog                       → Built-in boolean comparison logic
 ```
 
 <br>
