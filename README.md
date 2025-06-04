@@ -1,6 +1,6 @@
-![Polar Train](https://github.com/user-attachments/assets/7d69987d-500e-48c4-be44-12229fa8b0ec)
+![Balance](https://github.com/user-attachments/assets/899215ea-3eff-4355-af79-98ae6c810aca)
 
-#
+<br>
 
 | Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
 |----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
