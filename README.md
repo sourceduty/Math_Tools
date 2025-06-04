@@ -53,7 +53,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── TolSum                      → Tolerance-based additive optimization
 ├── Q-Neuron                    → Quantum-superposition neuronal computation
 ├── OpLog                       → Built-in boolean comparison logic
-└── DistRed                     → Dynamic stochastic reduction function
+├── DistRed                     → Dynamic stochastic reduction function
+└── PreJunc                     → Pre-processed algebraic transformation
 ```
 
 <br>
