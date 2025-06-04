@@ -37,6 +37,7 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── ImpactQ                     → Quantitative impact functions for logical variability
 ├── Optimation Theorem          → Optimization in Boolean, quantum, and computational logic
 ├── Linear Matrix               → Matrix-driven robotic control and cluster computation
+├── Linear Matrix Signal        → Robotic motion planning and autonomous vehicle navigation
 ├── Modbias                     → Modular bias detection and fairness tuning in logic
 ├── Navisol                     → Signal-based navigation and pathfinding frameworks
 ├── Passaffect                  → Flow-controlled logic via affective passing structures
@@ -54,7 +55,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Q-Neuron                    → Quantum-superposition neuronal computation
 ├── OpLog                       → Built-in boolean comparison logic
 ├── DistRed                     → Dynamic stochastic reduction function
-└── PreJunc                     → Pre-processed algebraic transformation
+├── PreJunc                     → Pre-processed algebraic transformation
+└──  BIE                         → Cooperation and competition in a dynamic environment
 ```
 
 <br>
