@@ -127,19 +127,6 @@ When abstracting away details, especially in the context of simplifying a highly
 | Icon        | Warning Icon     | Triangle with exclamation mark representing a hazard                            | ⚠️                   |
 | Symbol      | Mathematical     | The symbol ∞ representing the abstract concept of infinity                      | ∞                    |
 ```
-
-#
-
-![Measure](https://github.com/user-attachments/assets/eb92e00e-a0c2-4cdf-87cd-284d173777e7)
-
-[Measuring Line](https://chatgpt.com/g/g-6837bd9605808191a6e8146c819554cf-measuring-line) was made to help users dream up, design, and develop imaginative and functional linear measuring tools with a playful twist. Whether you're envisioning a tongue-in-cheek novelty ruler that gauges sass per inch, a charming tape measure for pet lovers that compares lengths to various dog breeds, or a precision carpentry tool that calls out pirate slang as it measures, Measuring Line blends creativity with utility to bring these quirky ideas to life. This GPT assists with everything from conceptual brainstorming to technical design, offering guidance on custom scales, unique labeling systems, materials, dimensions, visual mockups, and even product descriptions. Its goal is to transform standard measuring instruments into conversation-starting, smile-inducing tools that still meet the demands of accuracy and practicality—perfect for kids, hobbyists, professionals with a sense of humor, and anyone who thinks measurement should be more fun.
-
-```
-|     |     |     |     |     |     |     |     |     |     |     |     |
-0”   1”    2”    3”    4”    5”    6”    7”    8”    9”   10”   11”   12”
-|🌮|🌮|🌮|🌮|🌮|🌮|🌯|🌮|🌮|🌮|🌮|🌮|🎉
-
-```
 #
 
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
@@ -155,3 +142,5 @@ When abstracting away details, especially in the context of simplifying a highly
 [Improvement Value](https://chatgpt.com/g/g-sk2jHB2eb-improvement-value)
 <br>
 [Math Theorem](https://chatgpt.com/g/g-67bc732d44bc8191b75fc4cfd6d05c0b-math-theorem)
+<br>
+[Infinity Control](https://github.com/sourceduty/Infinity_Control)
