@@ -33,7 +33,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── DistRed                     → Dynamic stochastic reduction function
 ├── PreJunc                     → Pre-processed algebraic transformation
 ├── BIE                         → Cooperation and competition in a dynamic environment
-└── RetExtra                    → Real-time extraction using predefined numerical ranges
+├── RetExtra                    → Real-time extraction using predefined numerical ranges
+└── AdaptDif                    → Quantified transformation between entities
 ```
 
 <br>
