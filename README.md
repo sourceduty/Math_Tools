@@ -144,13 +144,7 @@ When abstracting away details, especially in the context of simplifying a highly
 
 ![Infinity](https://github.com/user-attachments/assets/9a2dbe2c-2f2d-403a-8719-60c707a70763)
 
-<br>
-
-| Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
-|----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
-| Add                  | Add       | Ajouter     | Sumar       | جمع (jamaʿa)          | 加 (jiā)                 |
-| Subtract             | Subtract  | Soustraire  | Restar      | طرح (ṭaraḥa)          | 减 (jiǎn)                |
-| Multiply             | Multiply  | Multiplier  | Multiplicar | ضرب (ḍaraba)          | 乘 (chéng)               |
+Infinities in mathematics represent quantities that have no bound—they go on endlessly and cannot be measured or contained by any finite value. While some infinities, like the set of natural numbers, are countably infinite (meaning you can list them in a sequence), others, like the set of real numbers between 0 and 1, are uncountably infinite—so vast that they cannot be matched one-to-one with the natural numbers. This distinction shows that not all infinities are equal; some are so large that their elements can't even be counted or ordered in a list, revealing a fascinating hierarchy within the concept of the infinite itself.
 
 #
 
