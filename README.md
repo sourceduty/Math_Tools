@@ -35,7 +35,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── BIE                         → Cooperation and competition in a dynamic environment
 ├── RetExtra                    → Real-time extraction using predefined numerical ranges
 ├── AdaptDif                    → Quantified transformation between entities
-└── OptRef                      → Interval-preserving refinement and constrained transformation
+├── OptRef                      → Interval-preserving refinement and constrained transformation
+└── RivalComp                   → Adaptive competing dominance relationship
 ```
 
 <br>
