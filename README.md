@@ -34,7 +34,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── PreJunc                     → Pre-processed algebraic transformation
 ├── BIE                         → Cooperation and competition in a dynamic environment
 ├── RetExtra                    → Real-time extraction using predefined numerical ranges
-└── AdaptDif                    → Quantified transformation between entities
+├── AdaptDif                    → Quantified transformation between entities
+└── OptRef                      → Interval-preserving refinement and constrained transformation
 ```
 
 <br>
