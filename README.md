@@ -1,4 +1,4 @@
-![Proportion Scale](https://github.com/user-attachments/assets/2baef703-9e57-4362-be7a-af77129bdef9)
+![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
 
 ⭐ [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math) is a custom GPT created to assist users in parsing, exploring, and applying a suite of advanced computational and mathematical frameworks developed by Sourceduty. Parsing, in this context, refers to the systematic identification and alignment of user requirements with the capabilities of specific Sourceduty functions—translating complex problems into structured, solvable components using the most appropriate frameworks.
 
@@ -69,7 +69,7 @@ Also, similarly, [Unwritten Rules](https://chatgpt.com/g/g-6774d969eb6881919a01a
 
 #
 
-![Maths](https://github.com/user-attachments/assets/cdf3d730-f9bc-4edb-afff-71512ce7f3d1)
+![Masked](https://github.com/user-attachments/assets/f983defe-8fde-4500-a80d-4118a604377b)
 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation) was made to rigorously assess the quality, validity, and impact of theoretical frameworks across all scientific domains by applying a multi-criteria approach that draws from philosophy of science, cognitive psychology, social epistemology, data analysis, and machine learning. Its core function is to evaluate theories using standards such as explanatory power, predictive accuracy, empirical support, logical consistency, falsifiability, parsimony, scope, generality, coherence with established knowledge, and their capacity to generate novel hypotheses.
 
@@ -138,10 +138,6 @@ When abstracting away details, especially in the context of simplifying a highly
 ```
 
 #
-
-![Masked](https://github.com/user-attachments/assets/f983defe-8fde-4500-a80d-4118a604377b)
-
-<br>
 
 | Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
 |----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
