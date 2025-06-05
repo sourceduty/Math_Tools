@@ -140,8 +140,11 @@ When abstracting away details, especially in the context of simplifying a highly
 |🌮|🌮|🌮|🌮|🌮|🌮|🌯|🌮|🌮|🌮|🌮|🌮|🎉
 
 ```
-
 #
+
+![Infinity](https://github.com/user-attachments/assets/9a2dbe2c-2f2d-403a-8719-60c707a70763)
+
+<br>
 
 | Mathematical Concept | English   | French      | Spanish     | Arabic (العربية)     | Mandarin Chinese (中文) |
 |----------------------|-----------|-------------|-------------|-----------------------|--------------------------|
