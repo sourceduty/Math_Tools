@@ -36,7 +36,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── RetExtra                    → Real-time extraction using predefined numerical ranges
 ├── AdaptDif                    → Quantified transformation between entities
 ├── OptRef                      → Interval-preserving refinement and constrained transformation
-└── Infinity Control            → Asymptotic regulation of infinite limits
+├── Infinity Control            → Asymptotic regulation of infinite limits
+└── SwitchV                     → Alternation between dual-state variables
 ```
 
 <br>
