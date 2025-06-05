@@ -36,18 +36,18 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── RetExtra                    → Real-time extraction using predefined numerical ranges
 ├── AdaptDif                    → Quantified transformation between entities
 ├── OptRef                      → Interval-preserving refinement and constrained transformation
-└── RivalComp                   → Adaptive competing dominance relationship
+└── Infinity Control            → Asymptotic regulation of infinite limits
 ```
 
 <br>
 
-| Unsolved Problem                         | Relevant Sourceduty Functions                                              | Function Purpose / Fit                                                                                                 |
-|-----------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization       | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. |
-| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver                 | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. |
-| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar           | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. |
-| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate                  | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. |
-| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias                      | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. |
+| Unsolved Problem                         | Relevant Sourceduty Functions + Infinity Control                                        | Function Purpose / Fit                                                                                                                                           |
+|-----------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization                     | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. Infinity Control is not directly applicable due to finite-state discrete logic models. |
+| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver, Infinity Control             | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. Infinity Control helps regulate analytic behavior near ∞ and around critical strip boundaries. |
+| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar                         | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. Infinity Control may have limited use in boundary asymptotic smoothing under extreme turbulence conditions. |
+| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate, Infinity Control              | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. Infinity Control manages singularities and asymptotic growth of L-functions via complex continuation. |
+| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias, Infinity Control                  | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. Infinity Control applies to regulate asymptotic decay of field modes and smooth mass gap boundaries. |
 
 <br>
 
