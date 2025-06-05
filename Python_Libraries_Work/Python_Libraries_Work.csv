@@ -1,0 +1,7 @@
+Domain,Sourceduty Frameworks,Python Libraries
+Algorithm Speed & Optimization,"Optimation Theorem, TolSum, DistRed, OpLog","NumPy, SciPy, Numba, Cython, pyomo, cvxpy, joblib, multiprocessing"
+Logical Decision & Reasoning,"Truthvar, ImpactQ, GradLog, OpLog, Q-Neuron","sympy.logic, Z3 Solver, PyDatalog, kanren, qiskit"
+"Signal, Robotics, & Automation","Linear Matrix Signal, Signal Optimate, Navisol, Contripot, Joint Driver","ROS (rospy), scikit-robot, PyBullet, open3d, networkx, control"
+Bias Detection & Logic Fairness,"Modbias, AdaptDif, BIE, Passaffect","Fairlearn, AIF360, Shap, LIME"
+Mathematical Modeling & Prediction,"Quadexpo, Factorchain, RetExtra, PreJunc","statsmodels, prophet, sympy, matplotlib, pandas, scikit-learn, XGBoost"
+Code Structure & Modular Systems,"Universal Organization, Infinity Control, FlopV, Comtag","click, typer, argparse, pydantic, dataclasses, importlib, pluggy"
