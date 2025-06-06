@@ -146,3 +146,5 @@ When abstracting away details, especially in the context of simplifying a highly
 [Math Theorem](https://chatgpt.com/g/g-67bc732d44bc8191b75fc4cfd6d05c0b-math-theorem)
 <br>
 [Infinity Control](https://github.com/sourceduty/Infinity_Control)
+<br>
+[New Science](https://github.com/sourceduty/New_Science)
