@@ -41,7 +41,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── SwapV                       → Interchanging elements of an array or matrix
 ├── StateMod                    → Adaptive condition-based switching
 ├── ReactComp                   → Dynamic chemical reaction modeling
-└── DetFilter                   → Selective identification using logical and symbolic filtration
+├── DetFilter                   → Selective identification using logical and symbolic filtration
+└── SuperShoot                  → Accelerate growth rates exponentially
 ```
 
 <br>
