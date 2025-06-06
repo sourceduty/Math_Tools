@@ -37,7 +37,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── AdaptDif                    → Quantified transformation between entities
 ├── OptRef                      → Interval-preserving refinement and constrained transformation
 ├── Infinity Control            → Asymptotic regulation of infinite limits
-└── SwitchV                     → Alternation between dual-state variables
+├── SwitchV                     → Alternation between dual-state variables
+└── DetFilter                   → Selective identification using logical and symbolic filtration
 ```
 
 <br>
