@@ -131,6 +131,10 @@ When abstracting away details, especially in the context of simplifying a highly
 ```
 #
 
+![Zero](https://github.com/user-attachments/assets/875d0507-49da-4518-b360-2ff92bae9c31)
+
+#
+
 [Optimation Math](https://github.com/s0urceduty/Optimation_Math)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
