@@ -39,7 +39,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── Infinity Control            → Asymptotic regulation of infinite limits
 ├── SwitchV                     → Alternation between dual-state variables
 ├── DetFilter                   → Selective identification using logical and symbolic filtration
-└── StateMod                    → Adaptive condition-based switching
+├── StateMod                    → Adaptive condition-based switching
+└── ReactComp                   → Dynamic chemical reaction modeling
 ```
 
 <br>
