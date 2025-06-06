@@ -1,0 +1,53 @@
+Sourceduty Optimization Engine Types
+│
+├── 1. Logical & Constraint Optimizers
+│   ├── LogicOpt Engine
+│   │   ├── Uses: Optimation Theorem, Truthvar, OptRef
+│   │   └── Solves logical constraints & binary/multi-valued logic spaces
+│   └── ToleranceSolver Engine
+│       ├── Uses: TolSum, OptRef
+│       └── Minimizes under soft tolerances and constraint fuzziness
+│
+├── 2. Energy & Efficiency Optimizers
+│   ├── SignalPath Optimizer
+│   │   ├── Uses: Signal Optimate, Contripot, ImpactQ
+│   │   └── Optimizes signal transmission or control energy
+│   └── DronePath Engine
+│       ├── Uses: Navisol, OptRef, ImpactQ, TolSum
+│       └── Plans least-energy path for autonomous vehicles
+│
+├── 3. Allocation & Fairness Engines
+│   ├── BiasBalanced Optimizer
+│   │   ├── Uses: Modbias, Truthvar, Passaffect
+│   │   └── Fair optimization across conflicting or modular domains
+│   └── Impact-Aware Allocator
+│       ├── Uses: ImpactQ, Joint Driver, Passaffect
+│       └── Prioritizes impactful variables in resource allocation
+│
+├── 4. Growth & Forecasting Engines
+│   ├── GrowthTune Engine
+│   │   ├── Uses: Quadexpo, AdaptDif, OptRef
+│   │   └── Optimizes exponential-quadratic growth paths
+│   └── ForecastRefiner
+│       ├── Uses: Quadexpo, ImpactQ, Truthvar
+│       └── Improves prediction accuracy under constraint evolution
+│
+├── 5. Real-Time & Adaptive Engines
+│   ├── RealTimeOpt Engine
+│   │   ├── Uses: RetExtra, SwitchV, Joint Driver
+│   │   └── Optimizes dynamic systems in live feedback loops
+│   └── DualState Navigator
+│       ├── Uses: SwitchV, Linear Matrix Signal, OptRef
+│       └── Optimizes between alternate system states (e.g., energy vs. speed)
+│
+└── 6. Multi-Domain Universal Engines
+    ├── UniTask Engine
+    │   ├── Uses: Universal Organization, OptRef, Truthvar
+    │   └── Targeted single-objective optimization
+    └── MultiOpt Engine
+        ├── Uses: Universal Organization, Joint Driver, ImpactQ
+        └── Parallel multi-objective optimization with adaptive coordination
+
+------------------------------------------------------------------------------------------------------------------------------------
+		
+The Sourceduty Optimization Engine family comprises a diverse suite of logic-driven systems tailored to specific domains such as constraint solving, energy efficiency, fairness, forecasting, and adaptive control. At the foundational level, logical optimizers like the LogicOpt Engine and ToleranceSolver Engine leverage frameworks such as Optimation Theorem, Truthvar, and TolSum to handle discrete decision logic, symbolic constraints, and tolerance-aware adjustments. For physical systems, energy-focused engines like the SignalPath Optimizer and DronePath Engine employ Signal Optimate, Contripot, Navisol, and ImpactQ to minimize energy usage while navigating spatial constraints and refining movement paths. Allocation engines, including the BiasBalanced Optimizer and Impact-Aware Allocator, integrate Modbias, Passaffect, and Joint Driver to optimize resource distribution while preserving fairness and sensitivity to high-impact variables. In forecasting, engines such as GrowthTune and ForecastRefiner apply Quadexpo, AdaptDif, and Truthvar to fine-tune exponential-quadratic models and dynamically evolving systems. For real-time scenarios, the RealTimeOpt Engine and DualState Navigator use RetExtra, SwitchV, and Linear Matrix Signal to continuously optimize within live feedback environments, switching between states like speed versus efficiency. Finally, the UniTask Engine and MultiOpt Engine embody universal architecture via Universal Organization and ImpactQ, supporting both single- and multi-objective optimization with flexible, scalable orchestration. These engines form a modular, extensible framework enabling precise, purpose-driven optimization across logical, physical, and computational spaces.
