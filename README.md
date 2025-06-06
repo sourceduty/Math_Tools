@@ -38,9 +38,10 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── OptRef                      → Interval-preserving refinement and constrained transformation
 ├── Infinity Control            → Asymptotic regulation of infinite limits
 ├── SwitchV                     → Alternation between dual-state variables
-├── DetFilter                   → Selective identification using logical and symbolic filtration
+├── SwapV                       → Interchanging elements of an array or matrix
 ├── StateMod                    → Adaptive condition-based switching
-└── ReactComp                   → Dynamic chemical reaction modeling
+├── ReactComp                   → Dynamic chemical reaction modeling
+└── DetFilter                   → Selective identification using logical and symbolic filtration
 ```
 
 <br>
