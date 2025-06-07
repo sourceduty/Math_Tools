@@ -46,7 +46,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── InterBound                  → Find where a moving object meets a boundary
 ├── WeightPar                   → Score different parsing possibilities
 ├── InterAffect                 → Quantify how an input variable influences another variable
-└── RealResp                    → Adaptively tune neural weights in real time
+├── RealResp                    → Adaptively tune neural weights in real time
+└── EncodEx                     → Encode raw data for machine learning algorithms
 ```
 
 <br>
