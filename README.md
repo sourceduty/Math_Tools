@@ -45,7 +45,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── SuperShoot                  → Accelerate growth rates exponentially
 ├── InterBound                  → Find where a moving object meets a boundary
 ├── WeightPar                   → Score different parsing possibilities
-└── InterAffect                 → Quantify how an input variable influences another variable
+├── InterAffect                 → Quantify how an input variable influences another variable
+└── RealResp                    → Adaptively tune neural weights in real time
 ```
 
 <br>
