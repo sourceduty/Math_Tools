@@ -104,7 +104,7 @@ In contrast, the GPT also helps users explore the benefits of multi-task storage
 
 #
 
-![Math Automation](https://github.com/user-attachments/assets/842b050d-2069-4f46-9abd-35665b5e12f2)
+![Math Engine](https://github.com/user-attachments/assets/a5555f23-6a53-4e9c-adc4-44bcf91cc85f)
 
 Theoretical [math engines](https://github.com/sourceduty/Math_Engines) are abstract computational systems designed to model, analyze, and produce mathematical truths through a structured set of logical and symbolic operations. It can be envisioned as a kind of conceptual machinery that takes axioms, definitions, and formal rules as inputs and processes them to yield theorems, proofs, and higher-order structures as outputs. Much like how a mechanical engine transforms fuel into motion, a theoretical math engine transforms foundational principles into rigorous conclusions by following well-defined inferential procedures. These engines can take various forms—from formal systems like Peano arithmetic or Zermelo-Fraenkel set theory, to algorithmic models such as Turing machines or proof assistants. Each of these systems functions as a disciplined environment where mathematical reasoning is formalized and mechanized, allowing for consistency, reproducibility, and even automation in the discovery and verification of mathematical knowledge.
 
