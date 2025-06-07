@@ -47,13 +47,13 @@ SOURCEDUTY MATH FRAMEWORKS
 
 <br>
 
-| Unsolved Problem                         | Relevant Sourceduty Functions + Infinity Control                                        | Function Purpose / Fit                                                                                                                                           |
-|-----------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| P vs NP Problem                          | Optimation Theorem, Truthvar, GradLog, OpLog, Universal Organization                     | Models Boolean logic optimization, adaptive truth-variable systems, gradual transitions, logic gate structure, and task decomposition. Infinity Control is not directly applicable due to finite-state discrete logic models. |
-| Riemann Hypothesis                       | Factorchain, ImpactQ, Linear Matrix, PreJunc, Joint Driver, Infinity Control             | Deconstructs prime distributions, quantifies spectral irregularities, layers zeta structure, and adaptively tunes across critical zero domains. Infinity Control helps regulate analytic behavior near ∞ and around critical strip boundaries. |
-| Navier–Stokes Existence and Smoothness   | Contripot, Signal Wave, Linear Matrix Signal, DistRed, Reactivar                         | Models fluid energy transfer, wave turbulence, vector-driven flow, reduces stochastic noise, and simulates smooth-state restoration. Infinity Control may have limited use in boundary asymptotic smoothing under extreme turbulence conditions. |
-| Birch and Swinnerton-Dyer Conjecture     | Factorchain, Passaffect, TolSum, PreJunc, Signal Optimate, Infinity Control              | Analyzes rational elliptic points, group flows, additive tolerance in L-functions, and transforms elliptic structures with signal control. Infinity Control manages singularities and asymptotic growth of L-functions via complex continuation. |
-| Yang–Mills Existence and Mass Gap        | Signal Optimate, Q-Neuron, Comtag, Reactivar, Modbias, Infinity Control                  | Simulates gauge field behavior, models entangled quantum states, tags topological variations, restores stable field states, and adjusts interaction bias. Infinity Control applies to regulate asymptotic decay of field modes and smooth mass gap boundaries. |
+| Application                          | Engine(s)                                        | Core Functions Used                                      | Primary Use Case                                                |
+|--------------------------------------|--------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
+| Constraint Solving & Logical Optimization | LogicOpt Engine                                 | Optimation Theorem, Truthvar, OptRef                     | Automated logic decision systems (e.g., scheduling, circuits)   |
+| Energy-Efficient Signal & Motion Planning | SignalPath Optimizer, DronePath Engine          | Contripot, Navisol, ImpactQ, Signal Optimate, TolSum     | Robotics, drones, traffic signal systems                        |
+| Fairness & Bias-Aware Allocation     | BiasBalanced Optimizer, Impact-Aware Allocator  | Modbias, Passaffect, Joint Driver, Truthvar              | Fair resource distribution in AI, finance, and policy           |
+| Exponential Forecasting & Growth Modeling | GrowthTune Engine, ForecastRefiner              | Quadexpo, AdaptDif, Truthvar                             | Economic modeling, population growth, ML predictions            |
+| Real-Time Adaptive Control           | RealTimeOpt Engine, DualState Navigator         | SwitchV, Linear Matrix Signal, RetExtra, Joint Driver    | Autonomous navigation, industrial automation, feedback systems  |
 
 <br>
 
@@ -64,8 +64,6 @@ Parsing multiple Sourceduty math functions for advanced system requirements invo
 <br>
 
 ![Parsing](https://github.com/user-attachments/assets/2f02f109-4f23-4ba4-8a46-f8a775c93569)
-
-<br>
 
 ChatGPT parses mathematical functions by leveraging an advanced understanding of symbolic logic, computational structures, and domain-specific frameworks. A mathematical parser model is a theoretical, formal and abstract representation of the process by which an input string or sequence (e.g., code, text) can be parsed into its constituent syntactic components according to predefined grammatical rules. It defines the structure of language and how it should be analyzed using tools like grammars, parsing algorithms, and data structures such as parse trees or derivation forests. The model aims to capture the essential aspects of natural languages (e.g., syntax, semantics) in a rigorous mathematical framework that can be used for analysis, optimization, and implementation by compilers, interpreters, theorem provers, etc.
 
@@ -135,7 +133,9 @@ When abstracting away details, especially in the context of simplifying a highly
 ```
 #
 
-![Zero](https://github.com/user-attachments/assets/875d0507-49da-4518-b360-2ff92bae9c31)
+![Math Contest](https://github.com/user-attachments/assets/7244103c-7acb-4578-87bf-10bbaa5f1792)
+
+If companies began funding solutions to unsolved mathematical problems, the pace of discovery could accelerate dramatically due to the infusion of resources, incentives, and interdisciplinary collaboration. Corporations—especially those in technology, finance, cybersecurity, and aerospace—have direct economic interests in breakthroughs tied to problems like the Riemann Hypothesis, P vs NP, and the Navier–Stokes equations. By offering substantial bounties, funding specialized research teams, or establishing math-focused innovation labs akin to DeepMind or OpenAI, companies could attract top-tier talent from academia and industry. This could shift some research away from purely theoretical pursuits toward results-oriented, milestone-driven projects. Moreover, companies could deploy computational infrastructure far beyond what most universities can offer—massively parallel simulations, AI-based pattern recognition, and quantum computing frameworks—to model hypotheses and test mathematical conjectures at unprecedented scales and speeds.
 
 #
 
