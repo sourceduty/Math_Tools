@@ -43,7 +43,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── ReactComp                   → Dynamic chemical reaction modeling
 ├── DetFilter                   → Selective identification using logical and symbolic filtration
 ├── SuperShoot                  → Accelerate growth rates exponentially
-└── InterBound                  → Find where a moving object meets a boundary
+├── InterBound                  → Find where a moving object meets a boundary
+└── WeightPar                    → Score different parsing possibilities
 ```
 
 <br>
