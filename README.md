@@ -131,7 +131,7 @@ When abstracting away details, especially in the context of simplifying a highly
 ```
 #
 
-![Math Contest](https://github.com/user-attachments/assets/7244103c-7acb-4578-87bf-10bbaa5f1792)
+![Math Contest](https://github.com/user-attachments/assets/0d50a6c9-0706-416a-abc3-9b4e07c2f576)
 
 If companies began funding solutions to unsolved mathematical problems, the pace of discovery could accelerate dramatically due to the infusion of resources, incentives, and interdisciplinary collaboration. Corporations—especially those in technology, finance, cybersecurity, and aerospace—have direct economic interests in breakthroughs tied to problems like the Riemann Hypothesis, P vs NP, and the Navier–Stokes equations. By offering substantial bounties, funding specialized research teams, or establishing math-focused innovation labs akin to DeepMind or OpenAI, companies could attract top-tier talent from academia and industry. This could shift some research away from purely theoretical pursuits toward results-oriented, milestone-driven projects. Moreover, companies could deploy computational infrastructure far beyond what most universities can offer—massively parallel simulations, AI-based pattern recognition, and quantum computing frameworks—to model hypotheses and test mathematical conjectures at unprecedented scales and speeds.
 
