@@ -44,7 +44,7 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── DetFilter                   → Selective identification using logical and symbolic filtration
 ├── SuperShoot                  → Accelerate growth rates exponentially
 ├── InterBound                  → Find where a moving object meets a boundary
-└── WeightPar                    → Score different parsing possibilities
+└── WeightPar                   → Score different parsing possibilities
 ```
 
 <br>
