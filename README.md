@@ -47,7 +47,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── WeightPar                   → Score different parsing possibilities
 ├── InterAffect                 → Quantify how an input variable influences another variable
 ├── RealResp                    → Adaptively tune neural weights in real time
-└── EncodEx                     → Encode raw data for machine learning algorithms
+├── EncodEx                     → Encode raw data for machine learning algorithms
+└── ProxSim                     → Realistic simulations of complex systems
 ```
 
 <br>
