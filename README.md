@@ -48,7 +48,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── InterAffect                 → Quantify how an input variable influences another variable
 ├── RealResp                    → Adaptively tune neural weights in real time
 ├── EncodEx                     → Encode raw data for machine learning algorithms
-└── ProxSim                     → Realistic simulations of complex systems
+├── ProxSim                     → Realistic simulations of complex systems
+└── BrinkMet                    → How much a value exceeds a baseline
 ```
 
 <br>
