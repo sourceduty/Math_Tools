@@ -49,7 +49,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── RealResp                    → Adaptively tune neural weights in real time
 ├── EncodEx                     → Encode raw data for machine learning algorithms
 ├── ProxSim                     → Realistic simulations of complex systems
-└── BrinkMet                    → How much a value exceeds a baseline
+├── BrinkMet                    → How much a value exceeds a baseline
+└── CustomV                     → Dynamically modify the behavior of another variable
 ```
 
 <br>
