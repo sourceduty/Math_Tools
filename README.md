@@ -58,8 +58,6 @@ SOURCEDUTY MATH FRAMEWORKS
 #### ⚠️ Warning: These math frameworks require significant manual effort, complex development, and extended time commitment.
 ---
 
-<br>
-
 | Application                          | Engine(s)                                        | Core Functions Used                                      | Primary Use Case                                                |
 |--------------------------------------|--------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
 | Constraint Solving & Logical Optimization | LogicOpt Engine                                 | Optimation Theorem, Truthvar, OptRef                     | Automated logic decision systems (e.g., scheduling, circuits)   |
