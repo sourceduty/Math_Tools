@@ -51,7 +51,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── ProxSim                     → Realistic simulations of complex systems
 ├── BrinkMet                    → How much a value exceeds a baseline
 ├── CustomV                     → Dynamically modify the behavior of another variable
-└── DistribuTar                 → Distribute resources or apply influences across various targets
+├── DistribuTar                 → Distribute resources or apply influences across various targets
+└── KnoProblem                  → General-purpose math problem-solving framework
 ```
 
 ---
