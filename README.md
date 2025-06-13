@@ -61,7 +61,7 @@ SOURCEDUTY MATH FRAMEWORKS
 
 | Application                          | Engine(s)                                        | Core Functions Used                                      | Primary Use Case                                                |
 |--------------------------------------|--------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
-| Constraint Solving & Logical Optimization | LogicOpt Engine                                 | Optimation Theorem, Truthvar, OptRef                     | Automated logic decision systems (e.g., scheduling, circuits)   |
+| Constraint Solving & Logical Optimization | [LogicOpt Engine](https://chatgpt.com/g/g-684bd0d552b88191878de4a07d24b462-logicopt-engine)                                 | Optimation Theorem, Truthvar, OptRef                     | Automated logic decision systems (e.g., scheduling, circuits)   |
 | Energy-Efficient Signal & Motion Planning | SignalPath Optimizer, DronePath Engine          | Contripot, Navisol, ImpactQ, Signal Optimate, TolSum     | Robotics, drones, traffic signal systems                        |
 | Fairness & Bias-Aware Allocation     | BiasBalanced Optimizer, Impact-Aware Allocator  | Modbias, Passaffect, Joint Driver, Truthvar              | Fair resource distribution in AI, finance, and policy           |
 | Exponential Forecasting & Growth Modeling | GrowthTune Engine, ForecastRefiner              | Quadexpo, AdaptDif, Truthvar                             | Economic modeling, population growth, ML predictions            |
