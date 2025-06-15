@@ -53,7 +53,8 @@ SOURCEDUTY MATH FRAMEWORKS
 ├── CustomV                     → Dynamically modify the behavior of another variable
 ├── DistribuTar                 → Distribute resources or apply influences across various targets
 ├── KnoProblem                  → General-purpose math problem-solving framework
-└── CyclSeq                     → Cyclic iterator that yields elements from a sequence
+├── CyclSeq                     → Cyclic iterator that yields elements from a sequence
+└── WeightSig                   → Dynamically adjust real-time signal weights 
 ```
 
 ---
