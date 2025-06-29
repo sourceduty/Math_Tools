@@ -170,3 +170,5 @@ There are several prominent unsolved mathematical problems that offer prizes, aw
 [Infinity Control](https://github.com/sourceduty/Infinity_Control)
 <br>
 [New Science](https://github.com/sourceduty/New_Science)
+<br>
+[Compare-Sort](https://chatgpt.com/g/g-6860da7b1ea48191990f2763c7b0ee63-compare-sort)
